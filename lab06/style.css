@@ -113,13 +113,6 @@ button {
     color: black;
 }
 
-
-
-
-
-Narrow the line width (lines that are too long in the horizontal direction are hard to read)
-
-
 .dyslexia-mode .container {
     letter-spacing: 0.35ch;
     word-spacing: 1.225ch; /* 3.5x letter-spacing */
